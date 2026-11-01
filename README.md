@@ -5,9 +5,11 @@ I am a data science professional with a keen interest in data science, data anal
 Here are my key skills and competencies 
 - Database administration with SQL
 - Microsoft Power BI
+- VBA
 - Python Programming
 - R Programming
 - Data analysis with Eviews, Stata and SPSS
+- Google Looker Studio
 - Machine Learning
 - Deep Learning
 - Explainable AI
