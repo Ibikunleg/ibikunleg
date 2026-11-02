@@ -11,6 +11,7 @@ Here are my key skills and competencies
 - Data analysis with Eviews, Stata and SPSS
 - Google Looker Studio
 - Machine Learning
+- Apache Superset
 - Deep Learning
 - Explainable AI
 - Data Visualization
