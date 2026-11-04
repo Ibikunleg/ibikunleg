@@ -12,6 +12,7 @@ Here are my key skills and competencies
 - Google Looker Studio
 - Machine Learning
 - Apache Superset
+- Accelerated data science with NVIDIA's cuDF and cuML
 - Deep Learning
 - Explainable AI
 - Data Visualization
